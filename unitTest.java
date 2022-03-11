@@ -20,7 +20,7 @@ public class unitTest
 	private static String s2 ="You help yourself the sky will help you.";  
 	private static String s3 ="A man is what he think of!";  
 	private static String s4 ="The more we know the more we need to know.";  
-	private static String s5 ="I live in a buble called now?>";  
+	private static String s5 ="I live in a buble called now!";
 	
 	public unitTest()
 	{
